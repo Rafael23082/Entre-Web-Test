@@ -120,7 +120,6 @@ body{
 .left-side2{
     display: flex;
     flex-direction: column;
-    height: 182vh;
 }
 
 .image-container1{
