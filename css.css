@@ -30,6 +30,7 @@ body{
     background-color: #DBE5F4;
     margin-top: 5rem;
     display: flex;
+    border-radius: 20px 20px 0px 0px;
 }
 
 .left-side{
@@ -682,8 +683,8 @@ body{
     }
 
     .eco-friendly-image{
-        margin-top: -5rem;
-        margin-left: 15%;
+        margin-top: -3.5rem;
+        margin-left: 13%;
     }
 
     .right-side{
@@ -719,7 +720,7 @@ body{
     }
 
     .prototype-image{
-        width: 55%;
+        width: 65%;
     }
 
     .refined-proto{
