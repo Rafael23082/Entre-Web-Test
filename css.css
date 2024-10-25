@@ -45,7 +45,7 @@ body{
     margin: 0 auto;
     margin-top: 10%;
 }
-
+ 
 .eco-friendly-image{
     width: 20%;
     height: auto;
@@ -229,6 +229,559 @@ body{
     background-image: url("BG.png");
     background-size: cover;
     background-position: center;
+}
+
+@media only screen and (min-width: 2301px){
+
+
+    .left-side{
+        margin-top: 5rem;
+    }
+
+    .right-side{
+        margin-top: 4rem;
+    }
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 67rem;
+        margin-top: 13rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{   
+        font-size: 4rem;
+    }
+
+    .small{
+        font-size: 2.5rem;
+    }
+
+    .image-container1{
+        height: 57.9rem;
+    }
+
+    .image-container2{
+        height: 57rem;
+    }
+
+    .image-container3{
+        height: 26rem;
+    }
+
+    .large-box-2{
+        height: 75rem;
+    }
+
+    .kleen_image{
+        margin-top: 10rem;
+        width: 60%;
+    }
+
+    .textt{
+        font-size: 2.5rem;
+        width: 45rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 40%;
+        width: 40%;
+        margin-top: 1rem;
+    }
+
+    .icons{
+        width: 63%;
+        margin-top: 18rem;
+        margin-left: 15%;
+    }
+
+    .learn-more{
+        font-size: 2rem;
+        width: 35rem;
+    }
+
+    .earth-image{
+        margin-top: 7rem;
+    }
+
+    .a1-tree-img{
+        width: 6rem;
+        margin-top: 6.5rem;
+        margin-left: 10%;
+    }
+    
+    .a2-tree-img{
+        width: 8rem;
+        margin-top: 2.2rem;
+        margin-left: 16%;
+    }
+    
+    .b1-tree-img{
+        width: 7rem;
+        margin-top: 3.4rem;
+        margin-left: 10%;
+    }
+    
+    .b2-tree-img{
+        width: 6rem;
+        margin-top: 1.3rem;
+        margin-left: 20%;
+    }
+    
+    .c1-tree-img{
+        width: 6rem;
+        margin-top: 19.3rem;
+    }
+    
+    .c2-tree-img{
+        width: 8rem;
+        margin-left: 29%;
+    }
+}
+
+@media only screen and (min-width: 2101px) and (max-width: 2300px){
+
+
+    .left-side{
+        margin-top: 5rem;
+    }
+
+    .right-side{
+        margin-top: 4rem;
+    }
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 61rem;
+        margin-top: 10rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{   
+        font-size: 4rem;
+    }
+
+    .small{
+        font-size: 2.5rem;
+    }
+
+    .image-container1{
+        height: 57.9rem;
+    }
+
+    .image-container2{
+        height: 58rem;
+    }
+
+    .image-container3{
+        height: 26rem;
+    }
+
+    .large-box-2{
+        height: 75rem;
+    }
+
+    .kleen_image{
+        margin-top: 10rem;
+        width: 60%;
+    }
+
+    .textt{
+        font-size: 2rem;
+        width: 40rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 40%;
+        width: 47%;
+    }
+
+    .icons{
+        width: 63%;
+        margin-top: 18rem;
+        margin-left: 15%;
+    }
+
+    .learn-more{
+        font-size: 2rem;
+        width: 35rem;
+    }
+
+    .earth-image{
+        margin-top: 7rem;
+    }
+
+    .a1-tree-img{
+        width: 6rem;
+        margin-top: 6.5rem;
+        margin-left: 10%;
+    }
+    
+    .a2-tree-img{
+        width: 8rem;
+        margin-top: 2.2rem;
+        margin-left: 16%;
+    }
+    
+    .b1-tree-img{
+        width: 7rem;
+        margin-top: 3.4rem;
+        margin-left: 10%;
+    }
+    
+    .b2-tree-img{
+        width: 6rem;
+        margin-top: 1.3rem;
+        margin-left: 20%;
+    }
+    
+    .c1-tree-img{
+        width: 6rem;
+        margin-top: 19.3rem;
+    }
+    
+    .c2-tree-img{
+        width: 8rem;
+        margin-left: 29%;
+    }
+}
+
+@media only screen and (min-width: 1901px) and (max-width: 2100px){
+
+
+    .left-side{
+        margin-top: 5rem;
+    }
+
+    .right-side{
+        margin-top: 4rem;
+    }
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 55rem;
+        margin-top: 8rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{   
+        font-size: 3rem;
+    }
+
+    .small{
+        font-size: 1.5rem;
+    }
+
+    .image-container1{
+        height: 40.7rem;
+    }
+
+    .image-container2{
+        height: 42rem;
+    }
+
+    .image-container3{
+        height: 16rem;
+    }
+
+    .large-box-2{
+        height: 55rem;
+    }
+
+    .kleen_image{
+        margin-top: 5rem;
+        width: 50%;
+    }
+
+    .textt{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 40%;
+        width: 40%;
+    }
+
+    .icons{
+        width: 60%;
+        margin-top: 12rem;
+    }
+
+    .learn-more{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .earth-image{
+        margin-top: 7rem;
+    }
+}
+
+
+@media only screen and (min-width: 1801px) and (max-width: 1900px){
+
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 49rem;
+        margin-top: 8rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{
+        font-size: 3rem;
+    }
+
+    .small{
+        font-size: 1.5rem;
+    }
+
+    .image-container1{
+        height: 38.7rem;
+    }
+
+    .image-container2{
+        height: 40rem;
+    }
+
+    .image-container3{
+        height: 14rem;
+    }
+
+    .large-box-2{
+        height: 53rem;
+    }
+
+    .kleen_image{
+        margin-top: 5rem;
+        width: 50%;
+    }
+
+    .textt{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 30%;
+        width: 45%;
+    }
+
+    .icons{
+        width: 70%;
+        margin-top: 12rem;
+    }
+
+    .learn-more{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .earth-image{
+        margin-top: 7rem;
+    }
+}
+
+@media only screen and (min-width: 1601px) and (max-width: 1800px){
+
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 46rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{
+        font-size: 3rem;
+    }
+
+    .small{
+        font-size: 1.5rem;
+    }
+
+    .image-container1{
+        height: 38.7rem;
+    }
+
+    .image-container2{
+        height: 40rem;
+    }
+
+    .image-container3{
+        height: 14rem;
+    }
+
+    .large-box-2{
+        height: 53rem;
+    }
+
+    .kleen_image{
+        margin-top: 5rem;
+        width: 50%;
+    }
+
+    .textt{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 30%;
+        width: 45%;
+    }
+
+    .icons{
+        width: 70%;
+        margin-top: 12rem;
+    }
+
+    .learn-more{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .earth-image{
+        margin-top: 7rem;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px){
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 7%;
+    }
+
+    .box-1{
+        height: 40rem;
+    }
+
+    .prototype-image{
+        width: 60%;
+        margin-top: 2rem;
+    }
+
+    .big{
+        font-size: 3rem;
+    }
+
+    .small{
+        font-size: 1.5rem;
+    }
+
+    .image-container1{
+        height: 36.7rem;
+    }
+
+    .image-container2{
+        height: 38rem;
+    }
+
+    .image-container3{
+        height: 12rem;
+    }
+
+    .large-box-2{
+        height: 51rem;
+    }
+
+    .kleen_image{
+        margin-top: 5rem;
+        width: 50%;
+    }
+
+    .textt{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+
+    .eco-text{
+        margin-top: 3rem;
+    }
+
+    .refined-proto{
+        margin-left: 30%;
+    }
+
+    .icons{
+        width: 70%;
+        margin-top: 12rem;
+    }
+
+    .learn-more{
+        font-size: 1.5rem;
+        width: 30rem;
+    }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1399px){
+
+    .eco-friendly-image{
+        width: 15%;
+        margin-left: 10%;
+    }
+
 }
 
 @media only screen and (min-width: 901px) and (max-width: 1150px){
